@@ -1,0 +1,31 @@
+Aarav Sharma
+Jaipur, India | aarav.sharma@gmail.com | +91 98765 43210 | linkedin.com/in/aaravsharma | github.com/aaravs
+
+SUMMARY
+Full stack developer and B.Tech Computer Science student who builds web applications with React, Node.js and PostgreSQL.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, SQL
+Frameworks: React, Next.js, Node.js, Express, Tailwind CSS
+Tools: Git, GitHub, Docker, Postman, Figma, Jest
+
+EXPERIENCE
+Software Development Intern | Codecraft Solutions | Jun 2025 - Aug 2025
+• Built 6 REST APIs in Node.js and Express for an order management system used by 1,200 customers
+• Designed the PostgreSQL database schema and cut report query time by 45% with indexes
+• Wrote unit tests with Jest, raising test coverage from 30% to 75%
+• Took part in weekly code reviews and fixed 20+ bugs before release
+
+PROJECTS
+Campus Placement Tracker | React, Node.js, PostgreSQL
+• Developed a responsive React dashboard that tracks applications for 300+ students
+• Deployed with Docker on AWS EC2 using a GitHub Actions CI/CD pipeline
+Expense Splitter App | Next.js, TypeScript
+• Created a Next.js app with TypeScript and Tailwind CSS for splitting group expenses
+• Integrated a third-party payments API and handled authentication with JWT
+
+EDUCATION
+Manipal University Jaipur — B.Tech in Computer Science and Engineering | 2023 - 2027 | CGPA 8.7
+
+CERTIFICATIONS
+AWS Cloud Practitioner (2025)

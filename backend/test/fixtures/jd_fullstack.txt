@@ -1,0 +1,24 @@
+Full Stack Developer Intern
+Pavion Labs is hiring a Full Stack Developer Intern to join our product team in Jaipur.
+
+What you'll do:
+- Build and maintain web applications using React and Node.js
+- Design REST APIs and integrate third-party services
+- Write unit tests and take part in code reviews
+- Collaborate with designers in Figma to ship responsive UI
+
+Requirements:
+- Strong knowledge of JavaScript and TypeScript
+- Experience with PostgreSQL or MySQL and database design
+- Familiarity with Git and GitHub
+- Bachelor's degree in Computer Science or a related field
+- 0-1 years of experience
+- Good communication skills and problem solving
+
+Nice to have:
+- Experience with Docker, AWS and CI/CD pipelines
+- Exposure to Next.js and Tailwind CSS
+- Knowledge of GraphQL is a plus
+
+Benefits:
+- Flexible hours, stipend of 25k per month, free snacks, Python workshops
